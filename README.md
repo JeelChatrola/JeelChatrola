@@ -23,7 +23,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Github]
 
-[<img align="left" alt="ROS" width="26px" src="" />]
+[<img align="left" alt="ROS" width="26px" src="https://miro.medium.com/max/800/1*lsbkF4ybE4jDj2eOsqgeSg.png" />][ROS]
 
 <br />
 ---
@@ -31,4 +31,4 @@
 [instagram]: https://instagram.com/jeel_chatrola
 [linkedin]: https://www.linkedin.com/in/jeel-chatrola-5110141b9/
 [Github]: https://github.com/JeelChatrola
-
+[ROS]: https://www.ros.org/install/
