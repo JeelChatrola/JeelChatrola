@@ -3,7 +3,7 @@
 
 ## I'm a Student and a Robotics Enthusiast!!
 
-- 🔭 I am currently working on a Autonomous Car
+- 🔭 I am currently working on a Autonomous Mobile Robot
 - 🌱 I’m currently learning Robotics Operating System (ROS)
 - 👯 I’m looking forward to work as intern at a Robotics Company
 - 🥅 2021 Goals: Learn Robotics
