@@ -17,13 +17,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Github]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][Github]
-[<img align="left" alt="ROS" width="30px" src="https://www.worksonarm.com/wp-content/uploads/2017/09/ROS-Logo-.png" />][ROS]
-[<img align="left" alt="ROS" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][Github]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs-code]
 
+[<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
+[<img align="left" alt="Terminal" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />][bash]
+[<img align="left" alt="ROS" width="45px" src="https://www.worksonarm.com/wp-content/uploads/2017/09/ROS-Logo-.png" />][ROS]
+[<img align="left" alt="arduino" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />][arduino]
+[<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 <br />
 <br />
 
@@ -33,3 +33,7 @@
 [linkedin]: https://www.linkedin.com/in/jeel-chatrola-5110141b9/
 [Github]: https://github.com/JeelChatrola
 [ROS]: https://www.ros.org/install/
+[vs-code]: https://code.visualstudio.com/
+
+[arduino]: https://www.arduino.cc/
+[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
