@@ -34,6 +34,6 @@
 [Github]: https://github.com/JeelChatrola
 [ROS]: https://www.ros.org/install/
 [vs-code]: https://code.visualstudio.com/
-
+[python]: https://www.python.org/
 [arduino]: https://www.arduino.cc/
 [bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
