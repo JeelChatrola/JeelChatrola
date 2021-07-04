@@ -21,7 +21,7 @@
 
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
 [<img align="left" alt="Terminal" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gnubash.svg" />][bash]
-[<img align="left" alt="ROS" width="45px" src="https://www.worksonarm.com/wp-content/uploads/2017/09/ROS-Logo-.png" />][ROS]
+[<img align="left" alt="ROS" width="45px" src="https://d2908q01vomqb2.cloudfront.net/ca3512f4dfa95a03169c5a670a4c91a19b3077b4/2018/11/26/ros-logo.jpg" />][ROS]
 [<img align="left" alt="arduino" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" />][arduino]
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 <br />
