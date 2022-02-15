@@ -3,10 +3,10 @@
 
 ## I'm a Student and a Robotics Enthusiast!!
 
-- 🔭 I am currently working on a Autonomous Mobile Robot
-- 🌱 I’m currently learning Robotics Operating System (ROS)
-- 👯 I’m looking forward to work as intern at a Robotics Company
-- 🥅 2021 Goals: Learn Robotics
+- 🔭 I am currently working at RBCCPS, IISc Bangalore as Intern
+- 🌱 I’m currently learning Multirobot system and Deep Learning
+- 👯 I’m looking forward to work on Publishing research papers
+- 🥅 2022 Goals: Learn Robotics
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
