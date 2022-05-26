@@ -4,8 +4,8 @@
 ## I'm a Student and a Robotics Enthusiast!!
 
 - 🔭 I am currently working at RBCCPS, IISc Bangalore as Intern
-- 🌱 I’m currently learning Multirobot system and Deep Learning
-- 👯 I’m looking forward to work on Publishing research papers
+- 🌱 I’m currently learning Robotics and Deep Learning
+- 👯 I’m looking forward to work on research papers
 - 🥅 2022 Goals: Learn Robotics
 
 ### Connect with me:
