@@ -1,8 +1,5 @@
 ### Hi there, I'm Jeel Chatrola 👋
 
-
-## I'm a Student and a Robotics Enthusiast!!
-
 - 🔭 I am currently working at RBCCPS, IISc Bangalore as Research Assitant
 - 🌱 I’m currently learning Robotics and Deep Learning
 - 👯 I’m looking forward to work on research papers
