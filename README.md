@@ -43,11 +43,11 @@
 
 ### Softwares and Utilities  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/ros.png" alt="ros" height="50" />  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/gazebo.png" alt="gazebo" height="50" />  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/rviz.png" alt="rviz" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/ros.png" alt="ros" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/gazebo.png" alt="gazebo" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/rviz.png" alt="rviz" height="50" />  
 <!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />   -->
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/matlab.png" alt="matlab" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/matlab.png" alt="matlab" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
