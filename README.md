@@ -30,5 +30,71 @@
 [ROS]: https://www.ros.org/install/
 [vs-code]: https://code.visualstudio.com/
 [python]: https://www.python.org/
+
+## My Skill Set  
+<table><tr><td valign="top" width="33%">
+
+
+
+### Programming Languages  
+<div align="center">  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/c++.png" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/python.png" alt="python" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/tensorflow.png" alt="tf" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/pytorch.png" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/jax.png" alt="jax" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/react.png" alt="react" height="50" /> 
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/node.png" alt="node" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/sql.png" alt="sql" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/html.png" alt="html" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/css.png" alt="css" height="50" />  
+</div>
+
+</td><td valign="top" width="33%">
+
+
+
+### Softwares and Utilities  
+<div align="center">  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ros.png" alt="ros" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/gazebo.png" alt="gazebo" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/rviz.png" alt="rviz" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/matlab.png" alt="matlab" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/simulink.png" alt="simulink" height="50" /> 
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/opensim.png" alt="opensim" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/solidworks.jpeg" alt="solidworks" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ansys.png" alt="ansys" height="50" />   
+</div>
+
+</td><td valign="top" width="33%">
+
+### Others  
+<div align="center">  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ubuntu.png" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/gnu_bash-icon.png" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/latex.png" alt="latex" height="50" />  
+</div>
+
+</td></tr></table>    
+
+<br/>  
+
+
+## Stats
+
+<br>
+<p align=center>
+  <div align=center>
+    <img max-width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarshmishra04&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
+    <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
+  </div>
+</p>
+
+
+
+
+
 [arduino]: https://www.arduino.cc/
 [bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
