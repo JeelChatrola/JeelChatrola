@@ -30,13 +30,6 @@
 <img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/python.png" alt="python" height="50" /> 
 <img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/pytorch.png" alt="pytorch" height="50" />  
   
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/tensorflow.png" alt="tf" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/jax.png" alt="jax" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/react.png" alt="react" height="50" />  -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/node.png" alt="node" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/sql.png" alt="sql" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/html.png" alt="html" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/css.png" alt="css" height="50" />   -->
 </div>
 
 </td><td valign="top" width="33%">
@@ -61,8 +54,6 @@
 </div>
 
 </td></tr></table>    
-
-<br/>  
 
 ## Stats
 
