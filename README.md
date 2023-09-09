@@ -1,7 +1,7 @@
 ### Hi there, I'm Jeel Chatrola 👋
 
 - 🔭 I am currently pursuing a MS in Robotics Engineering at WPI
-- 🌱 I’m currently learning Motion Planning and Deep Learning
+- 🌱 I’m currently studying Motion Planning and Deep Learning
 - 👯 I’m looking forward to work on Vision Based Control.
 - 🥅 2023 Goals: Land a intership at a top robotics company.
 
