@@ -27,8 +27,8 @@
 ### Programming Languages and Libraries
 <div align="center">  
 <img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/c++.png" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://jeelchatrola.github.io/blob/master/assets/img/skills/python.png" alt="python" height="50" /> 
-<img style="margin: 10px" src="https://jeelchatrola.github.io/blob/master/assets/img/skills/pytorch.png" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/python.png" alt="python" height="50" /> 
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/pytorch.png" alt="pytorch" height="50" />  
   
 <!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/tensorflow.png" alt="tf" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/jax.png" alt="jax" height="50" />   -->
@@ -43,11 +43,11 @@
 
 ### Softwares and Utilities  
 <div align="center">  
-<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/ros.png" alt="ros" height="50" />  
-<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/gazebo.png" alt="gazebo" height="50" />  
-<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/rviz.png" alt="rviz" height="50" />  
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />   -->
-<img style="margin: 10px" src="https://jeelchatrola.github.io/tree/master/assets/img/skills/matlab.png" alt="matlab" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/ros.png" alt="ros" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/gazebo.png" alt="gazebo" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/rviz.png" alt="rviz" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/docker.png" alt="docker" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/matlab.png" alt="matlab" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
