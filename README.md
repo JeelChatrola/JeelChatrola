@@ -1,9 +1,9 @@
 ### Hi there, I'm Jeel Chatrola 👋
 
-- 🔭 I am currently working at RBCCPS, IISc Bangalore as Research Assitant
-- 🌱 I’m currently learning Robotics and Deep Learning
-- 👯 I’m looking forward to work on Autonomous Exploration and Motion Planning.
-- 🥅 2022 Goals: Learn Robotics
+- 🔭 I am currently pursuing a MS in Robotics Engineering at WPI
+- 🌱 I’m currently learning Motion Planning and Deep Learning
+- 👯 I’m looking forward to work on Vision Based Control.
+- 🥅 2023 Goals: Land a intership at a top robotics company.
 
 ### Connect with me:
 
@@ -11,7 +11,7 @@
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
-  <a href="https://github.com/JeelChatrola" target="_blank">
+<a href="https://github.com/JeelChatrola" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 
@@ -67,7 +67,6 @@
 </td></tr></table>    
 
 <br/>  
-
 
 ## Stats
 
