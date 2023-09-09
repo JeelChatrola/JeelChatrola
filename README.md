@@ -61,7 +61,7 @@
 <p align=center>
   <div align=center>
     <img max-width="40%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=JeelChatrola&theme=dark&border_radius=8&mode=weekly">
-    <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
+    <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=JeelChatrola&theme=dark&show_icons=true&hide_border=true&count_private=true">
   </div>
 </p>
 
