@@ -54,10 +54,10 @@
 
 ### Others  
 <div align="center">  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/assets/img/skills/ubuntu.png" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/assets/img/skills/git-scm-icon.png" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/assets/img/skills/gnu_bash-icon.png" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/assets/img/skills/latex.png" alt="latex" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/ubuntu.png" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/git-scm-icon.png" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/gnu_bash-icon.png" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/latex.png" alt="latex" height="50" />  
 </div>
 
 </td></tr></table>    
