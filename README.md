@@ -24,7 +24,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### Programming Languages  
+### Programming Languages and Libraries
 <div align="center">  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/c++.png" alt="C++" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/python.png" alt="python" height="50" /> 
@@ -43,25 +43,21 @@
 
 ### Softwares and Utilities  
 <div align="center">  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ros.png" alt="ros" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/gazebo.png" alt="gazebo" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/rviz.png" alt="rviz" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/ros.png" alt="ros" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/gazebo.png" alt="gazebo" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/rviz.png" alt="rviz" height="50" />  
 <!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />   -->
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/matlab.png" alt="matlab" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/simulink.png" alt="simulink" height="50" /> 
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/opensim.png" alt="opensim" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/solidworks.jpeg" alt="solidworks" height="50" />   -->
-<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ansys.png" alt="ansys" height="50" />    -->
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/matlab.png" alt="matlab" height="50" />  
 </div>
 
 </td><td valign="top" width="33%">
 
 ### Others  
 <div align="center">  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ubuntu.png" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/git-scm-icon.png" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/gnu_bash-icon.png" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/latex.png" alt="latex" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/ubuntu.png" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/git-scm-icon.png" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/gnu_bash-icon.png" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://github.com/JeelChatrola/jeelchatrola.github.io/tree/master/assets/img/skills/latex.png" alt="latex" height="50" />  
 </div>
 
 </td></tr></table>    
