@@ -20,7 +20,6 @@
 [<img align="left" alt="arduino" width="45px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/a60ee07f-2216-4922-8a20-cf5c7d7d1b76" />][arduino]
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" alt="Python" width="40px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/6c29beb6-a025-4d77-b7cc-def116595145)"/>]
-
 <br />
 
 ***
@@ -30,11 +29,27 @@
 [ROS]: https://www.ros.org/install/
 [vs-code]: https://code.visualstudio.com/
 [python]: https://www.python.org/
+[arduino]: https://www.arduino.cc/
+[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
+<div align="center">
+
+<a href="mailto:jeelchatrola046@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+  <a href="https://github.com/JeelChatrola" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/jeel-chatrola-5110141b9/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Programming Languages  
 <div align="center">  
@@ -59,12 +74,12 @@
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ros.png" alt="ros" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/gazebo.png" alt="gazebo" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/rviz.png" alt="rviz" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />  
+<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/docker.png" alt="docker" height="50" />   -->
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/matlab.png" alt="matlab" height="50" />  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/simulink.png" alt="simulink" height="50" /> 
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/opensim.png" alt="opensim" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/solidworks.jpeg" alt="solidworks" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ansys.png" alt="ansys" height="50" />   
+<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/opensim.png" alt="opensim" height="50" />   -->
+<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/solidworks.jpeg" alt="solidworks" height="50" />   -->
+<!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ansys.png" alt="ansys" height="50" />    -->
 </div>
 
 </td><td valign="top" width="33%">
@@ -94,7 +109,3 @@
 
 
 
-
-
-[arduino]: https://www.arduino.cc/
-[bash]: https://en.wikipedia.org/wiki/Bash_(Unix_shell)
