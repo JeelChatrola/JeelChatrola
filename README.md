@@ -27,8 +27,8 @@
 ### Programming Languages and Libraries
 <div align="center">  
 <img style="margin: 10px" src="https://jeelchatrola.github.io/assets/img/skills/c++.png" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/python.png" alt="python" height="50" /> 
-<img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/pytorch.png" alt="pytorch" height="50" />  
+<img style="margin: 10px" src="https://jeelchatrola.github.io/blob/master/assets/img/skills/python.png" alt="python" height="50" /> 
+<img style="margin: 10px" src="https://jeelchatrola.github.io/blob/master/assets/img/skills/pytorch.png" alt="pytorch" height="50" />  
   
 <!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/tensorflow.png" alt="tf" height="50" />   -->
 <!-- <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/jax.png" alt="jax" height="50" />   -->
