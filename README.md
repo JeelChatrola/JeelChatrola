@@ -6,11 +6,9 @@
 - 🥅 2022 Goals: Learn Robotics
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jeelchatrola046@gmail.com) [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel-chatrola-5110141b9/)<br>
 <br />
-
 
 ### Languages and Tools:
 
@@ -26,7 +24,6 @@
 
 ***
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jeelchatrola046@gmail.com) [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeel-chatrola-5110141b9/)<br>
 
 [linkedin]: https://www.linkedin.com/in/jeel-chatrola-5110141b9/
 [Github]: https://github.com/JeelChatrola
