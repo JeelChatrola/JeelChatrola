@@ -19,9 +19,8 @@
 [<img align="left" alt="ROS" width="45px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/041a61bb-9171-422b-95c2-693cd3dba8f0" />][ROS]
 [<img align="left" alt="arduino" width="45px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/a60ee07f-2216-4922-8a20-cf5c7d7d1b76" />][arduino]
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
-[<img align="left" alt="Python" width="40px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/6c29beb6-a025-4d77-b7cc-def116595145)"/>
+[<img align="left" alt="Python" width="40px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/6c29beb6-a025-4d77-b7cc-def116595145)"/>]
 
-<br />
 <br />
 
 ***
