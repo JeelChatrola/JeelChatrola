@@ -13,7 +13,6 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vs-code]
-
 [<img align="left" alt="Git" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][Github]
 [<img align="left" alt="Terminal" width="45px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/6134b06d-9d34-478a-902c-e352e5f9fe4a" />][bash]
 [<img align="left" alt="ROS" width="45px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/041a61bb-9171-422b-95c2-693cd3dba8f0" />][ROS]
@@ -21,8 +20,6 @@
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][python]
 [<img align="left" alt="Python" width="40px" src="https://github.com/JeelChatrola/JeelChatrola/assets/56308805/6c29beb6-a025-4d77-b7cc-def116595145)"/>]
 <br />
-
-***
 
 [linkedin]: https://www.linkedin.com/in/jeel-chatrola-5110141b9/
 [Github]: https://github.com/JeelChatrola
@@ -67,8 +64,6 @@
 
 </td><td valign="top" width="33%">
 
-
-
 ### Softwares and Utilities  
 <div align="center">  
 <img style="margin: 10px" src="https://utkarshmishra04.github.io/images/skills/ros.png" alt="ros" height="50" />  
@@ -99,6 +94,7 @@
 
 ## Stats
 
+<!--
 <br>
 <p align=center>
   <div align=center>
@@ -106,6 +102,7 @@
     <img max-width="40%" align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmishra04&show_icons=true&hide_border=true">
   </div>
 </p>
+-->
 
 
 
