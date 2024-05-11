@@ -2,8 +2,7 @@
 
 - 🔭 I am currently pursuing a MS in Robotics Engineering at WPI
 - 🌱 I’m currently studying Motion Planning and Deep Learning
-- 👯 I’m looking forward to work on Vision Based Control.
-- 🥅 2023 Goals: Land a intership at a top robotics company.
+- 👯 I’m looking forward to work on Vision aided Planning.
 
 ### Connect with me:
 
