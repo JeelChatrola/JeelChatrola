@@ -28,81 +28,48 @@ high-throughput simulation, reusable components, and software that ships reliabl
 
 <table>
 <tr>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Programming Languages
 <div align="center">
-<table cellspacing="6" cellpadding="8">
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/python.png" alt="Python" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/cpp.png" alt="C++" height="72" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/c.png" alt="C" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/matlab.png" alt="MATLAB" height="72" /></td>
-</tr>
-</table>
+<img style="margin: 10px" src="assets/logos/python.png" alt="Python" height="60" />
+<img style="margin: 10px" src="assets/logos/cpp.png" alt="C++" height="60" />
+<img style="margin: 10px" src="assets/logos/c.png" alt="C" height="60" />
+<img style="margin: 10px" src="assets/logos/matlab.png" alt="MATLAB" height="60" />
 </div>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Frameworks
 <div align="center">
-<table cellspacing="6" cellpadding="8">
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/pytorch.png" alt="PyTorch" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/scikit-learn.png" alt="scikit-learn" height="72" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/opencv.svg" alt="OpenCV" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/pcl.png" alt="PCL" height="72" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/ros2.webp" alt="ROS / ROS2" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/ray.png" alt="Ray" height="72" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" colspan="2" width="226" height="80"><img src="assets/logos/open3d.png" alt="Open3D" height="56" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" colspan="2" width="226" height="80"><img src="assets/logos/moveit.png" alt="MoveIt" height="56" /></td>
-</tr>
-</table>
+<img style="margin: 10px" src="assets/logos/pytorch.png" alt="PyTorch" height="60" />
+<img style="margin: 10px" src="assets/logos/scikit-learn.png" alt="scikit-learn" height="60" />
+<img style="margin: 10px" src="assets/logos/opencv.svg" alt="OpenCV" height="60" />
+<img style="margin: 10px" src="assets/logos/pcl.png" alt="PCL" height="60" />
+<img style="margin: 10px" src="assets/logos/ros2.webp" alt="ROS / ROS2" height="60" />
+<img style="margin: 10px" src="assets/logos/ray.png" alt="Ray" height="60" />
+<img style="margin: 10px" src="assets/logos/open3d.png" alt="Open3D" height="60" />
+<img style="margin: 10px" src="assets/logos/moveit.png" alt="MoveIt" height="60" />
 </div>
 
 </td>
-<td valign="top" width="25%">
+<td valign="top" width="33%">
 
 ### Tools
 <div align="center">
-<table cellspacing="6" cellpadding="8">
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/bash.png" alt="Bash / Zsh" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/git.png" alt="Git" height="72" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/linux.webp" alt="Linux" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/docker.png" alt="Docker" height="72" /></td>
-</tr>
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/bazel.png" alt="Bazel" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/nix.png" alt="Nix" height="72" /></td>
-</tr>
-</table>
+<img style="margin: 10px" src="assets/logos/bash.png" alt="Bash / Zsh" height="60" />
+<img style="margin: 10px" src="assets/logos/git.png" alt="Git" height="60" />
+<img style="margin: 10px" src="assets/logos/linux.webp" alt="Linux" height="60" />
+<img style="margin: 10px" src="assets/logos/docker.png" alt="Docker" height="60" />
+<img style="margin: 10px" src="assets/logos/bazel.png" alt="Bazel" height="60" />
+<img style="margin: 10px" src="assets/logos/nix.png" alt="Nix" height="60" />
 </div>
-
-</td>
-<td valign="top" width="25%">
 
 ### Simulators
 <div align="center">
-<table cellspacing="6" cellpadding="8">
-<tr>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/isaac-sim.png" alt="Isaac Sim" height="72" /></td>
-<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/mujoco.jpg" alt="MuJoCo" height="72" /></td>
-</tr>
-</table>
+<img style="margin: 10px" src="assets/logos/isaac-sim.png" alt="Isaac Sim" height="60" />
+<img style="margin: 10px" src="assets/logos/mujoco.jpg" alt="MuJoCo" height="60" />
 </div>
 
 </td>
