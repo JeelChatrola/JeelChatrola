@@ -30,52 +30,52 @@ high-throughput simulation, reusable components, and software that ships reliabl
 <tr>
 <td valign="top" width="33%">
 
-### Languages & ML
+### Programming Languages
 <div align="center">
-<img style="margin: 10px" src="https://cdn.simpleicons.org/python/3776AB" alt="Python" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/opencv/5C3EE8" alt="OpenCV" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/mlflow/0194E2" alt="MLflow" height="50" />
+<img style="margin: 10px" src="assets/logos/python.png" alt="Python" height="45" />
+<img style="margin: 10px" src="assets/logos/cpp.png" alt="C++" height="45" />
+<img style="margin: 10px" src="assets/logos/c.png" alt="C" height="45" />
+<img style="margin: 10px" src="assets/logos/matlab.png" alt="MATLAB" height="45" />
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### Robotics & Simulation
+### Frameworks
 <div align="center">
-<img style="margin: 10px" src="https://cdn.simpleicons.org/ros/22314E" alt="ROS / ROS2" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/nvidia/76B900" alt="Isaac Sim / Jetson" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/ray/028CF0" alt="Ray" height="50" />
+<img style="margin: 10px" src="assets/logos/pytorch.webp" alt="PyTorch" height="45" />
+<img style="margin: 10px" src="assets/logos/scikit-learn.png" alt="scikit-learn" height="45" />
+<img style="margin: 10px" src="assets/logos/opencv.svg" alt="OpenCV" height="45" />
+<img style="margin: 10px" src="assets/logos/open3d.png" alt="Open3D" height="30" />
+<img style="margin: 10px" src="assets/logos/pcl.png" alt="PCL" height="45" />
+<img style="margin: 10px" src="assets/logos/ros2.webp" alt="ROS / ROS2" height="45" />
+<img style="margin: 10px" src="assets/logos/moveit.png" alt="MoveIt" height="30" />
+<img style="margin: 10px" src="assets/logos/ray.png" alt="Ray" height="45" />
 </div>
 <div align="center">
-<img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim" />
-<img src="https://img.shields.io/badge/MuJoCo-EE5A29?style=flat-square" alt="MuJoCo" />
-<img src="https://img.shields.io/badge/Gazebo-F58113?style=flat-square&logo=ros&logoColor=white" alt="Gazebo" />
-<img src="https://img.shields.io/badge/PyBullet-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyBullet" />
-<img src="https://img.shields.io/badge/MoveIt-005377?style=flat-square" alt="MoveIt" />
-<img src="https://img.shields.io/badge/OMPL-4B8BBE?style=flat-square" alt="OMPL" />
-<img src="https://img.shields.io/badge/Open3D-1F77B4?style=flat-square" alt="Open3D" />
-<img src="https://img.shields.io/badge/PCL-2C5BB4?style=flat-square" alt="PCL" />
+<sub>also: TensorFlow · MLflow · OMPL</sub>
 </div>
 
 </td>
 <td valign="top" width="33%">
 
-### Tools & Systems
+### Tools
 <div align="center">
-<img style="margin: 10px" src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/git/F05032" alt="Git" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash / Zsh" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/bazel/43A047" alt="Bazel" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/nixos/5277C3" alt="Nix" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/raspberrypi/A22846" alt="Raspberry Pi" height="50" />
-<img style="margin: 10px" src="https://cdn.simpleicons.org/espressif/E7352C" alt="ESP32" height="50" />
+<img style="margin: 10px" src="assets/logos/bash.png" alt="Bash / Zsh" height="45" />
+<img style="margin: 10px" src="assets/logos/git.png" alt="Git" height="45" />
+<img style="margin: 10px" src="assets/logos/linux.webp" alt="Linux" height="45" />
+<img style="margin: 10px" src="assets/logos/docker.png" alt="Docker" height="45" />
+<img style="margin: 10px" src="assets/logos/bazel.png" alt="Bazel" height="45" />
+<img style="margin: 10px" src="assets/logos/nix.png" alt="Nix" height="45" />
+</div>
+
+**Simulators**
+<div align="center">
+<img style="margin: 10px" src="assets/logos/isaac-sim.webp" alt="Isaac Sim" height="45" />
+<img style="margin: 10px" src="assets/logos/mujoco.jpg" alt="MuJoCo" height="45" />
+</div>
+<div align="center">
+<sub>also: Gazebo · PyBullet</sub>
 </div>
 
 </td>
