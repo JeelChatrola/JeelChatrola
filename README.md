@@ -28,54 +28,81 @@ high-throughput simulation, reusable components, and software that ships reliabl
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Programming Languages
 <div align="center">
-<img style="margin: 10px" src="assets/logos/python.png" alt="Python" height="45" />
-<img style="margin: 10px" src="assets/logos/cpp.png" alt="C++" height="45" />
-<img style="margin: 10px" src="assets/logos/c.png" alt="C" height="45" />
-<img style="margin: 10px" src="assets/logos/matlab.png" alt="MATLAB" height="45" />
+<table cellspacing="4" cellpadding="6">
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/python.png" alt="Python" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/cpp.png" alt="C++" height="42" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/c.png" alt="C" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/matlab.png" alt="MATLAB" height="42" /></td>
+</tr>
+</table>
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Frameworks
 <div align="center">
-<img style="margin: 10px" src="assets/logos/pytorch.webp" alt="PyTorch" height="45" />
-<img style="margin: 10px" src="assets/logos/scikit-learn.png" alt="scikit-learn" height="45" />
-<img style="margin: 10px" src="assets/logos/opencv.svg" alt="OpenCV" height="45" />
-<img style="margin: 10px" src="assets/logos/open3d.png" alt="Open3D" height="30" />
-<img style="margin: 10px" src="assets/logos/pcl.png" alt="PCL" height="45" />
-<img style="margin: 10px" src="assets/logos/ros2.webp" alt="ROS / ROS2" height="45" />
-<img style="margin: 10px" src="assets/logos/moveit.png" alt="MoveIt" height="30" />
-<img style="margin: 10px" src="assets/logos/ray.png" alt="Ray" height="45" />
-</div>
-<div align="center">
-<sub>also: TensorFlow · MLflow · OMPL</sub>
+<table cellspacing="4" cellpadding="6">
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/pytorch.webp" alt="PyTorch" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/scikit-learn.png" alt="scikit-learn" height="42" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/opencv.svg" alt="OpenCV" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/pcl.png" alt="PCL" height="42" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/ros2.webp" alt="ROS / ROS2" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/ray.png" alt="Ray" height="42" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" colspan="2" width="144" height="52"><img src="assets/logos/open3d.png" alt="Open3D" height="32" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" colspan="2" width="144" height="52"><img src="assets/logos/moveit.png" alt="MoveIt" height="32" /></td>
+</tr>
+</table>
 </div>
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 ### Tools
 <div align="center">
-<img style="margin: 10px" src="assets/logos/bash.png" alt="Bash / Zsh" height="45" />
-<img style="margin: 10px" src="assets/logos/git.png" alt="Git" height="45" />
-<img style="margin: 10px" src="assets/logos/linux.webp" alt="Linux" height="45" />
-<img style="margin: 10px" src="assets/logos/docker.png" alt="Docker" height="45" />
-<img style="margin: 10px" src="assets/logos/bazel.png" alt="Bazel" height="45" />
-<img style="margin: 10px" src="assets/logos/nix.png" alt="Nix" height="45" />
+<table cellspacing="4" cellpadding="6">
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/bash.png" alt="Bash / Zsh" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/git.png" alt="Git" height="42" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/linux.webp" alt="Linux" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/docker.png" alt="Docker" height="42" /></td>
+</tr>
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/bazel.png" alt="Bazel" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/nix.png" alt="Nix" height="42" /></td>
+</tr>
+</table>
 </div>
 
-**Simulators**
+</td>
+<td valign="top" width="25%">
+
+### Simulators
 <div align="center">
-<img style="margin: 10px" src="assets/logos/isaac-sim.webp" alt="Isaac Sim" height="45" />
-<img style="margin: 10px" src="assets/logos/mujoco.jpg" alt="MuJoCo" height="45" />
-</div>
-<div align="center">
-<sub>also: Gazebo · PyBullet</sub>
+<table cellspacing="4" cellpadding="6">
+<tr>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/isaac-sim.webp" alt="Isaac Sim" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/mujoco.jpg" alt="MuJoCo" height="42" /></td>
+</tr>
+</table>
 </div>
 
 </td>
