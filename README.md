@@ -32,14 +32,14 @@ high-throughput simulation, reusable components, and software that ships reliabl
 
 ### Programming Languages
 <div align="center">
-<table cellspacing="4" cellpadding="6">
+<table cellspacing="6" cellpadding="8">
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/python.png" alt="Python" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/cpp.png" alt="C++" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/python.png" alt="Python" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/cpp.png" alt="C++" height="72" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/c.png" alt="C" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/matlab.png" alt="MATLAB" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/c.png" alt="C" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/matlab.png" alt="MATLAB" height="72" /></td>
 </tr>
 </table>
 </div>
@@ -49,24 +49,24 @@ high-throughput simulation, reusable components, and software that ships reliabl
 
 ### Frameworks
 <div align="center">
-<table cellspacing="4" cellpadding="6">
+<table cellspacing="6" cellpadding="8">
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/pytorch.webp" alt="PyTorch" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/scikit-learn.png" alt="scikit-learn" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/pytorch.png" alt="PyTorch" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/scikit-learn.png" alt="scikit-learn" height="72" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/opencv.svg" alt="OpenCV" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/pcl.png" alt="PCL" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/opencv.svg" alt="OpenCV" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/pcl.png" alt="PCL" height="72" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/ros2.webp" alt="ROS / ROS2" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/ray.png" alt="Ray" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/ros2.webp" alt="ROS / ROS2" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/ray.png" alt="Ray" height="72" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" colspan="2" width="144" height="52"><img src="assets/logos/open3d.png" alt="Open3D" height="32" /></td>
+<td align="center" bgcolor="#ffffff" colspan="2" width="226" height="80"><img src="assets/logos/open3d.png" alt="Open3D" height="56" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" colspan="2" width="144" height="52"><img src="assets/logos/moveit.png" alt="MoveIt" height="32" /></td>
+<td align="center" bgcolor="#ffffff" colspan="2" width="226" height="80"><img src="assets/logos/moveit.png" alt="MoveIt" height="56" /></td>
 </tr>
 </table>
 </div>
@@ -76,18 +76,18 @@ high-throughput simulation, reusable components, and software that ships reliabl
 
 ### Tools
 <div align="center">
-<table cellspacing="4" cellpadding="6">
+<table cellspacing="6" cellpadding="8">
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/bash.png" alt="Bash / Zsh" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/git.png" alt="Git" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/bash.png" alt="Bash / Zsh" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/git.png" alt="Git" height="72" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/linux.webp" alt="Linux" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/docker.png" alt="Docker" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/linux.webp" alt="Linux" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/docker.png" alt="Docker" height="72" /></td>
 </tr>
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/bazel.png" alt="Bazel" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/nix.png" alt="Nix" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/bazel.png" alt="Bazel" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/nix.png" alt="Nix" height="72" /></td>
 </tr>
 </table>
 </div>
@@ -97,10 +97,10 @@ high-throughput simulation, reusable components, and software that ships reliabl
 
 ### Simulators
 <div align="center">
-<table cellspacing="4" cellpadding="6">
+<table cellspacing="6" cellpadding="8">
 <tr>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/isaac-sim.webp" alt="Isaac Sim" height="42" /></td>
-<td align="center" bgcolor="#ffffff" width="72" height="72"><img src="assets/logos/mujoco.jpg" alt="MuJoCo" height="42" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/isaac-sim.png" alt="Isaac Sim" height="72" /></td>
+<td align="center" bgcolor="#ffffff" width="110" height="110"><img src="assets/logos/mujoco.jpg" alt="MuJoCo" height="72" /></td>
 </tr>
 </table>
 </div>
